@@ -11,6 +11,11 @@ main.c takes inputs from the user the initiated the game. If no code and no atte
 
 The game will take guesses from the user and determine the number of well placed and misplaced pieces. If the player guesses correctly, the game ends. 
 
+## Screenshot
+Example input and output:
+
+![Screenshot](https://github.com/junaidalam2/MyMastermind/blob/main/screenshot.jpg?raw=true)
+
 ## Installation
 The application uses a GCC compiler for C. 
 
@@ -26,5 +31,11 @@ Where code is the secret code the player will try to guess and attempts is the n
 -if attempts is not inputted, the game will apply a default value of 10
 
 
-### The Core Team
-Junaid Alam
+## Author
+
+- [@junaidalam2](https://github.com/junaidalam2)
+
+
+## Support
+
+For support, email junaid.alam2@gmail.com.
